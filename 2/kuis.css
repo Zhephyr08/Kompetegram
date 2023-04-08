@@ -1,0 +1,16 @@
+.kuis{
+    text-align: center;
+    
+}
+
+
+.btn {
+    display: block;
+    width: 30%;
+    border: none;
+    background-color: #42c9ff;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
